@@ -1,5 +1,23 @@
 Smart Agriculture Monitoring & Management System
 
-It is a system that detects the health status of the crop. It first registers the farmer and his/her crop details. Then user has to sign in and get into the system. After successful sign in, the user is taken to "Smart Agriculture Dashboard". This dashboard has various tabs, such as Pests, Fertilizer, Market Prices, Irrigation, Harvest Records, Crop Health Monitoring, Weather Data, Sensors and Profile. Live weather data of temperature, humidity and precipitation is collected in the Weather Tab, based on the location of the farmer, which will be mentioned by the farmer, when he/she registers their crop. In my project, I have used dummy data of sensors for testing purpose. It has an hourly data retailed to Soil Moisture, PH of water, CO2, TDS. The sensors tab also has a facility to visualize the data in graph format. Based on the data collected in the Sensors tab and Weather Tab, a health status is given to the user of his/her crop in the Crop Health Monitoring tab. If their are any deficiencies in the crop, then in the out of range field, the deficiencies will get mentioned.
+The Smart Agriculture Monitoring & Management System is designed to assess the health status of crops effectively. The process begins with the registration of the farmer and their crop details. Upon successful registration, users can sign in and access the system, leading them to the "Smart Agriculture Dashboard."
 
-To use the software, please read the project manual.
+The dashboard features various tabs, including:
+
+- Pests
+- Fertilizer
+- Market Prices
+- Irrigation
+- Harvest Records
+- Crop Health Monitoring
+- Weather Data
+- Sensors
+- Profile
+
+In the "Weather Data" tab, live data on temperature, humidity, and precipitation is collected based on the farm's location specified during registration. 
+
+For testing purposes, the project currently utilizes dummy sensor data.The system gathers hourly data on soil moisture, water pH, CO2 levels, and Total Dissolved Solids (TDS) in the "Sensors" tab. This tab also offers graphical visualizations of the collected data.
+
+Using the information from the "Sensors" and "Weather Data" tabs, the system provides a health status update for the crops in the "Crop Health Monitoring" tab. Any deficiencies detected are highlighted in the "Out of Range" field.
+
+For detailed instructions on using the software, please refer to the project manual.
